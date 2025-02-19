@@ -62,7 +62,7 @@ public class Math {
         //Calculate min value
         min = java.lang.Math.min(firstNum, secondNum);
 
-        // Print formatted list
+        // Print formatted list with printf
         System.out.printf("Total: %d \nDifference: %d \nProduct:  %d \nAverage Value: %.2f \nMaximum Value: %d \nMinimum Value: %d \n" , sum, difference, product, mean, max, min);
     }
 }
