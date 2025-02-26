@@ -18,7 +18,6 @@ public class DiceRoller {
         String four = "";
         String five = "";
         String six = "";
-        String numberHolder = "";
 
         //create scanner
         Scanner userInput = new Scanner(System.in);
